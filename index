@@ -148,7 +148,7 @@
   // ★★★ 以下2つの値を必ず設定してください ★★★
   // ============================================================
   const LIFF_ID   = '2009771008-VfSgcO88';         // LINE Developersで取得したLIFF ID
-  const GAS_URL   = 'https://script.google.com/macros/s/AKfycbxxxxz4bon9HCMeXyKImIMJcq0sQq_hYX7tw0UHrZqTzmPpnbvoD0afn4VQ53Uk9NG4xg/exec';       // 質問予約フォームのGAS WebアプリURL
+  const GAS_URL   = 'https://script.google.com/macros/s/AKfycbzub7vu8rFv3hJOD6k-yxiJMextiRYSM3fqEHD9pcL7m_aAMoGp0xNCE53kBxCYU6IlvA/exec';       // 質問予約フォームのGAS WebアプリURL
   // ============================================================
 
   const loadingScreen = document.getElementById('loadingScreen');
